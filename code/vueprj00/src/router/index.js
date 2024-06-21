@@ -14,7 +14,7 @@ const routes = [
     component: LoginFrame
   },
   {
-    path: '/MenuFrame',
+    path: '/Menu',
     name: 'MenuFrame',
     component: MenuFrame
   }
